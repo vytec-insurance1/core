@@ -1,6 +1,7 @@
 pipeline{
 stages{
   stage{
+      sh ""
 }
 }
 }
