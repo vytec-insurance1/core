@@ -3,7 +3,7 @@ pipeline{
       stage("1"){
         echo "hello"
         username="scott"
-        password="tioger"
+        password="xxxxxxx"
     }
       stage("2"){
           sh ""
