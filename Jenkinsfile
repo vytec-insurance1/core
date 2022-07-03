@@ -1,7 +1,7 @@
 pipeline{
   stages{
       stage("1"){
-          sh ""
+        echo "hello"
     }
       stage("2"){
           sh ""
